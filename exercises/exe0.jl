@@ -25,6 +25,7 @@ cwd=joinpath(dirpath,"hello.in")
         if isfile(i)
             try
             f=joinpath(dirpath,i)
+            println()
             txt=""
             open(f,"r")do arg
                 global txt=readlines(arg)
@@ -34,7 +35,7 @@ cwd=joinpath(dirpath,"hello.in")
                 for i in enumerate(txt)
                     write(args,"$(i[1]). $(i[2])\n")
                 end
-            end    
+            end
             catch exc
                 println(exc)
             end
@@ -63,4 +64,4 @@ catch e
 end
 end
 =#
-@interpret exe0("C:\\Users\\AVI\\.atom\\julia-projects\\exercises\\exercise_0")
+exe0("C:\\Users\\AVI\\.atom\\julia-projects\\exercises\\exercise_0")

@@ -1,25 +1,13 @@
-_
-_       _ _(_)_     |  Documentation: https://docs.julialang.org
-(_)     | (_) (_)    |
-_ _   _| |_  __ _   |  Type "?" for help, "]?" for Pkg help.
-| | | | | | |/ _` |  |
-| | |_| | | | (_| |  |  Version 1.1.0 (2019-01-21)
-_/ |\__'_|_|_|\__'_|  |  Official https://julialang.org/ release
-|__/                   |
-
-how are you?
-you are welcome to this new course;
-are you ready to start?
-MethodError(open, (IOStream(<file exemple.text>), "r"), 0x0000000000006416)
-how are you?
-you are welcome to this new course;
-are you ready to start?
-MethodError(open, (IOStream(<file exemple.text>), "r"), 0x000000000000641c)
-how are you?
-you are welcome to this new course;
-are you ready to start?
-MethodError(open, (IOStream(<file exemple.text>), "r"), 0x0000000000006422)
-start
-1
-2
-3
+1. 1. 1. asdas
+2. 2. 2. d
+3. 3. 3. asd
+4. 4. 4. as
+5. 5. 5. d
+6. 6. 6. asd
+7. 7. 7. as
+8. 8. 8. da
+9. 9. 9. sd
+10. 10. 10. as
+11. 11. 11. das
+12. 12. 12. d
+13. 13. 13. as
